@@ -1,0 +1,35 @@
+.navbar{
+    background-color: var(--white--color) !important;
+}
+.edit-navbar{
+    height: 90px;
+}
+.navbar-logo{
+    width: 130px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.edit-collapse{
+    flex-grow:unset;
+}
+.edit-nav-link{
+    color:var(--pick--color) !important;
+}
+.edit-block{
+    width: 100%;
+    height: 100%;
+}
+.edit-slide{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+}
+.edit-search{
+    background-color: unset !important;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+}

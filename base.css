@@ -1,0 +1,9 @@
+:root{
+    --pick--color:#ff6b81;
+    --white--color:#ffffff;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
