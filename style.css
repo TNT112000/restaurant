@@ -16,6 +16,7 @@
 }
 .edit-nav-link{
     color:var(--pick--color) !important;
+    font-weight: 700;
 }
 .edit-block{
     width: 100%;
